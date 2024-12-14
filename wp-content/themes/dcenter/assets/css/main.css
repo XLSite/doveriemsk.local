@@ -1,0 +1,34 @@
+@media (min-width: 1200px){
+.container {
+    max-width: 1490px;
+}}
+
+.img-logo {
+    width: 100%;
+    max-width: 180px;
+}
+
+.img-skill {
+   
+    
+}
+.skill-box {
+    border-radius: 20px;
+    display: inline-block; 
+    overflow: hidden;
+  }
+  .skill-box img {
+    transition: 1s;
+    display: block; 
+  }
+  .skill-box img:hover {
+    transform: scale(1.2); 
+  }
+  .svglogo {
+    min-width: 180px;
+  }
+
+  .blog-box-item {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
